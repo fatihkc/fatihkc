@@ -22,8 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihkc&show_icons=true&locale=en" alt="fatihkc" /></p>
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+- [Cloud Resume Challenge](https://www.fatihkoc.net/posts/cloud-resume-challange/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
