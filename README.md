@@ -23,6 +23,7 @@
 
 ### Blogs posts
 
+- [Ultimate Kubernetes Deployment Guide](https://www.fatihkoc.net/posts/k8s-deployment-guide/)
 - [Cloud Resume Challenge](https://www.fatihkoc.net/posts/cloud-resume-challange/)
 
 <h3 align="left">Connect with me:</h3>
