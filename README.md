@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **AWS Services, Go, Service Mesh**
 
-- 👨‍💻 All of my projects are available at [fatihkoc.net](fatihkoc.net)
+- 👨‍💻 All of my projects are available at [fatihkoc.net](https://fatihkoc.net)
 
-- 📝 I regularly write articles on [fatihkoc.net/posts](fatihkoc.net/posts)
+- 📝 I regularly write articles on [fatihkoc.net/posts](https://fatihkoc.net/posts)
 
 - 💬 Ask me about **Kubernetes, Terraform, AWS**
 
 - 📫 How to reach me **mail@fatihkoc.net**
 
-- 📄 Know about my experiences [fatihkoc.net/about](fatihkoc.net/about)
+- 📄 Know about my experiences [fatihkoc.net/about](https://fatihkoc.net/about)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihkc&show_icons=true&locale=en" alt="fatihkc" /></p>
 
