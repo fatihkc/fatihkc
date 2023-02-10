@@ -19,8 +19,6 @@
 
 - 📄 Know about my experiences [fatihkoc.net/about](https://fatihkoc.net/about)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihkc&show_icons=true&locale=en" alt="fatihkc" /></p>
-
 ### Blogs posts
 
 - [Ultimate Kubernetes Deployment Guide](https://www.fatihkoc.net/posts/k8s-deployment-guide/)
