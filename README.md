@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fatihkocnet" target="blank"><img src="https://img.shields.io/twitter/follow/fatihkocnet?logo=twitter&style=for-the-badge" alt="fatihkocnet" /></a> </p>
 
-- 🔭 I’m currently working at **FTech Labs**
+- 🔭 I’m currently working at **VNGRS** as **DevOps Engineer**
 
 - 🌱 I’m currently learning **AWS Services, Go, Service Mesh**
 
@@ -21,6 +21,8 @@
 
 ### Blogs posts
 
+- [Elastic Kubernetes Service Cost Optimization: A Comprehensive Guide - Part Two](https://www.fatihkoc.net/posts/eks-cost-optimization-2/)
+- [Elastic Kubernetes Service Cost Optimization: A Comprehensive Guide - Part One](https://www.fatihkoc.net/posts/eks-cost-optimization-1/)
 - [Ultimate Kubernetes Deployment Guide](https://www.fatihkoc.net/posts/k8s-deployment-guide/)
 - [Cloud Resume Challenge](https://www.fatihkoc.net/posts/cloud-resume-challange/)
 
