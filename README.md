@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working at **VNGRS** as **DevOps Engineer**
 
-- 🌱 I’m currently learning **AWS Services, Go, Service Mesh**
-
 - 👨‍💻 All of my projects are available at [fatihkoc.net](https://fatihkoc.net)
 
 - 📝 I regularly write articles on [fatihkoc.net/posts](https://fatihkoc.net/posts)
 
-- 💬 Ask me about **Kubernetes, Terraform, AWS**
+- 💬 Ask me about **Kubernetes, DevSecOps, Terraform**
 
 - 📫 How to reach me **mail@fatihkoc.net**
 
@@ -21,6 +19,7 @@
 
 ### Blogs posts
 
+- [Shift Left Security Practices Developers Like](https://fatihkoc.net/posts/shift-left-security-devsecops/)
 - [Elastic Kubernetes Service Cost Optimization: A Comprehensive Guide - Part Two](https://www.fatihkoc.net/posts/eks-cost-optimization-2/)
 - [Elastic Kubernetes Service Cost Optimization: A Comprehensive Guide - Part One](https://www.fatihkoc.net/posts/eks-cost-optimization-1/)
 - [Ultimate Kubernetes Deployment Guide](https://www.fatihkoc.net/posts/k8s-deployment-guide/)
