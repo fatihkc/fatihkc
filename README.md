@@ -29,6 +29,8 @@
 <p align="left">
 <a href="https://twitter.com/fatihkocnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatihkocnet" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fatihhkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatihhkoc" height="30" width="40" /></a>
+<a href="https://medium.com/@fatihkc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="fatihkc" height="30" width="40" /></a>
+<a href="https://dev.to/fatihkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fatihkoc" height="30" width="40" /></a>
 <a href="https://fatihkoc.net/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://fatihkoc.net/index.xml" height="30" width="40" /></a>
 </p>
 
