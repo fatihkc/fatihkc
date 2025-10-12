@@ -19,11 +19,11 @@
 
 ### Blogs posts
 
+- [Building a Unified OpenTelemetry Pipeline in Kubernetes](https://fatihkoc.net/posts/opentelemetry-pipeline-kubernetes/)
+- [The Observability Gap with kube-prometheus-stack in Kubernetes](https://fatihkoc.net/posts/observability-gap-kube-prometheus-stack/)
 - [Shift Left Security Practices Developers Like](https://fatihkoc.net/posts/shift-left-security-devsecops/)
 - [Elastic Kubernetes Service Cost Optimization: A Comprehensive Guide - Part Two](https://www.fatihkoc.net/posts/eks-cost-optimization-2/)
 - [Elastic Kubernetes Service Cost Optimization: A Comprehensive Guide - Part One](https://www.fatihkoc.net/posts/eks-cost-optimization-1/)
-- [Ultimate Kubernetes Deployment Guide](https://www.fatihkoc.net/posts/k8s-deployment-guide/)
-- [Cloud Resume Challenge](https://www.fatihkoc.net/posts/cloud-resume-challange/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
