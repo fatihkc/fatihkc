@@ -19,11 +19,11 @@
 
 ### Blogs posts
 
+- [eBPF Observability and Continuous Profiling with Parca](https://fatihkoc.net/posts/ebpf-observability-parca/)
 - [Security Observability in Kubernetes Goes Beyond Logs](https://fatihkoc.net/posts/security-observability-kubernetes/)
 - [Building a Unified OpenTelemetry Pipeline in Kubernetes](https://fatihkoc.net/posts/opentelemetry-pipeline-kubernetes/)
 - [The Observability Gap with kube-prometheus-stack in Kubernetes](https://fatihkoc.net/posts/observability-gap-kube-prometheus-stack/)
 - [Shift Left Security Practices Developers Like](https://fatihkoc.net/posts/shift-left-security-devsecops/)
-- [Elastic Kubernetes Service Cost Optimization: A Comprehensive Guide - Part Two](https://fatihkoc.net/posts/eks-cost-optimization-2/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
