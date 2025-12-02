@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">Curious about cloud technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihkc&label=Profile%20views&color=0e75b6&style=flat" alt="fatihkc" /> </p>
-
 <p align="left"> <a href="https://twitter.com/fatihkocnet" target="blank"><img src="https://img.shields.io/twitter/follow/fatihkocnet?logo=twitter&style=for-the-badge" alt="fatihkocnet" /></a> </p>
 
 - 🔭 I’m currently working at **VNGRS** as **DevOps Engineer**
@@ -17,7 +15,7 @@
 
 - 📄 Know about my experiences [fatihkoc.net/about](https://fatihkoc.net/about)
 
-### Blogs posts
+### Blog posts
 
 - [Production Ready Terraform with Testing, Validation and CI/CD](https://fatihkoc.net/posts/production-ready-terraform-testing-validation-cicd/)
 - [From Signals to Reliability: SLOs, Runbooks and Post-Mortems](https://fatihkoc.net/posts/slos-runbooks-post-mortems/)
