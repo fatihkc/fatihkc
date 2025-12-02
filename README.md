@@ -19,11 +19,11 @@
 
 ### Blogs posts
 
+- [Production Ready Terraform with Testing, Validation and CI/CD](https://fatihkoc.net/posts/production-ready-terraform-testing-validation-cicd/)
 - [From Signals to Reliability: SLOs, Runbooks and Post-Mortems](https://fatihkoc.net/posts/slos-runbooks-post-mortems/)
 - [eBPF Observability and Continuous Profiling with Parca](https://fatihkoc.net/posts/ebpf-parca-observability/)
 - [Security Observability in Kubernetes Goes Beyond Logs](https://fatihkoc.net/posts/security-observability-kubernetes/)
 - [Building a Unified OpenTelemetry Pipeline in Kubernetes](https://fatihkoc.net/posts/opentelemetry-pipeline-kubernetes/)
-- [The Observability Gap with kube-prometheus-stack in Kubernetes](https://fatihkoc.net/posts/observability-gap-kube-prometheus-stack/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
