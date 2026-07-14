@@ -17,11 +17,11 @@
 
 ### Blog posts
 
-- [Production Ready Terraform with Testing, Validation and CI/CD](https://fatihkoc.net/posts/production-ready-terraform-testing-validation-cicd/)
-- [From Signals to Reliability: SLOs, Runbooks and Post-Mortems](https://fatihkoc.net/posts/slos-runbooks-post-mortems/)
+- [How I Built an AI System That Codes, Runs and Improves Itself](https://fatihkoc.net/posts/ai-system-that-improves-itself/)
+- [Production Ready Terraform with Testing, Validation and CI/CD](https://fatihkoc.net/posts/production-ready-terraform/)
+- [From Signals to Reliability: SLOs, Runbooks and Post-Mortems](https://fatihkoc.net/posts/sre-observability-slo-runbooks/)
 - [eBPF Observability and Continuous Profiling with Parca](https://fatihkoc.net/posts/ebpf-parca-observability/)
-- [Security Observability in Kubernetes Goes Beyond Logs](https://fatihkoc.net/posts/security-observability-kubernetes/)
-- [Building a Unified OpenTelemetry Pipeline in Kubernetes](https://fatihkoc.net/posts/opentelemetry-pipeline-kubernetes/)
+- [Security Observability in Kubernetes Goes Beyond Logs](https://fatihkoc.net/posts/kubernetes-security-observability/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
