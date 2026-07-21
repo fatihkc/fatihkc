@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<h3 align="center">Curious about cloud technologies</h3>
+<h3 align="center">DevOps engineer, operating agentic engineering in production</h3>
 
 <p align="left"> <a href="https://twitter.com/fatihkocnet" target="blank"><img src="https://img.shields.io/twitter/follow/fatihkocnet?logo=twitter&style=for-the-badge" alt="fatihkocnet" /></a> </p>
 
-- 🔭 I’m currently working at **VNGRS** as **DevOps Engineer**
+- 🔭 I’m a **DevOps Engineer** working on **agentic engineering and the AI-native SDLC**, directing coding agents across the delivery lifecycle
 
 - 👨‍💻 All of my projects are available at [fatihkoc.net](https://fatihkoc.net)
 
+- 🧭 I build and maintain [Awesome Agentic Engineering](https://github.com/fatihkc/awesome-agentic-engineering), a curated map of the AI-native SDLC
+
 - 📝 I regularly write articles on [fatihkoc.net/posts](https://fatihkoc.net/posts)
 
-- 💬 Ask me about **Kubernetes, DevSecOps, Terraform**
+- 💬 Ask me about **agentic engineering, coding agents, Kubernetes, and Terraform**
 
 - 📫 How to reach me **mail@fatihkoc.net**
 
